@@ -1,0 +1,11 @@
+./Posture/trainset
+./Posture/validset
+./Posture/venv/
+./Posture/.DS_Store
+__pycache__
+./Posture/.idea/
+./Posture/atlas/
+./Posture/assets/
+/root/Posture/data/demo_files
+./Posture/myenv/
+/root/.vscode-server
